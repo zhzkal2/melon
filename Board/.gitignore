@@ -40,3 +40,5 @@ out/
 
 ### RDS ###
 !**/src/main/**/resources/application.properties
+/src/main/resources/application.properties
+/src/main/resources/application-API-KEY.properties
